@@ -32,6 +32,13 @@
 			<version>2.2</version>
 			<scope>provided</scope>
 		</dependency>
+		
+		<dependency>
+			<groupId>org.springframework.data</groupId>
+			<artifactId>spring-data-mongodb</artifactId>
+			<version>3.2.1</version>
+			<scope>provided</scope>
+		</dependency>
 
 
 
